@@ -89,6 +89,7 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:id="@+id/electronicsCard"
                 android:layout_margin="10dp"
                 android:layout_weight="1"
                 app:cardElevation="20dp"
@@ -132,6 +133,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_margin="10dp"
+                android:id="@+id/homeCard"
                 android:layout_weight="1"
                 app:cardElevation="20dp"
                 app:cardCornerRadius="20dp">
@@ -161,6 +163,7 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:id="@+id/beautyCard"
                 android:layout_margin="10dp"
                 android:layout_weight="1"
                 app:cardElevation="20dp"
@@ -203,6 +206,7 @@
             <androidx.cardview.widget.CardView
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
+                android:id="@+id/pharmacyCard"
                 android:layout_margin="10dp"
                 android:layout_weight="1"
                 app:cardElevation="20dp"
@@ -234,6 +238,7 @@
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_margin="10dp"
+                android:id="@+id/groceryCard"
                 android:layout_weight="1"
                 app:cardElevation="20dp"
                 app:cardCornerRadius="20dp">
